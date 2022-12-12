@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # GPRC-Tresorit
 
    # Input:
    # p, principal amount
